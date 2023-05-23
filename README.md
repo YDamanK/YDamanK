@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YDamanK
 - 👀 I’m interested in electrical engineering, coding, tech solution, 3D/2D Drawing, RC, FPV drone. 
-- 🌱 I’m currently learning mlq4, python
+- 🌱 I’m currently learning mlq4, python, cpp, C#
 - 📫 How to reach me? .... :D
 
 <!---
